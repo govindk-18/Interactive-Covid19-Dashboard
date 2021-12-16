@@ -1,4 +1,4 @@
-![.](blob:https://imgur.com/f7960f85-9f2b-4e78-baf0-db287e8416bd)
+![.](https://i.imgur.com/6IiTls9.png)
 
 This is an Interactive database I made with the help of the dataset is the COVID-19 Data Repository by the Center for Systems Science and Engineering at Johns Hopkins University 
 This is probably one of the most comprehensive datasets publicly available about the Novel Coronavirus.
